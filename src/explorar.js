@@ -1,7 +1,8 @@
 const ventas = require("./datos")
-console.log("===Explorando los datos venta===")
-console.log(`Cantidad de registros: ${ventas.length}`)
-console.log("primer y ultimo registro:", ventas[0], ventas[ventas.length - 1])
-console.log("Registro posición 4:", ventas[4].producto)
-console.log("/n Tabla completa de ventas:")
+
+console.log(`La cantidad de registros es: ${ventas.length}`);
+console.log("El primer registro y el ultimo son:", ventas[0],ventas[ventas.length - 1] );
+console.log("El producto de la posisción numero cuatro es:",ventas[4].producto);
+console.log("=====Tabla completa de ventas=====")
 console.table(ventas)
+

@@ -33,4 +33,4 @@
 
 #### para caso 3: **organizar los precios para ponerle bien a todos.**
 
-#### para caso 4: **creo que borrare esa compra ya que no esta llevando ninguna cantidad**
+#### para caso 4: **creo que borrare esa compra ya que no esta llevando ninguna cantidad**j
